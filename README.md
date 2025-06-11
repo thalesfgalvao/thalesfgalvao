@@ -1,8 +1,8 @@
-## Olá! Eu sou o Thales Fernando
+## Hi, I'm Thales Fernando
 
-- 🔭 Atualmente eu trabalho com frontend
-- 🌱 Estou estudando Nodejs
-- 😄 Pronomes: ele/dele
+- 🔭 Working with javascript & typescript
+- 🌱 Learning about nodejs restful API
+- 😄 Pronounms: He/Him
 
 ##
 
